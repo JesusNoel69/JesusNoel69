@@ -8,7 +8,6 @@
 
 - 🔭 Estoy trabajando en [Document-template](https://github.com/JesusNoel69/Docs-Template)
 
-
 - 🌱 Aprendiendo  **Avalonia**
 
 - 💬 Conozco de **.NET, Angular y mas,...**
@@ -21,4 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusnoel69&show_icons=true&locale=en&layout=compact" alt="jesusmoel69" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesusnoel69&show_icons=true&locale=en" alt="jesusnoel69" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesusnoel69" alt="JesusNoel69" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesusnoel69&theme=onedark" alt="JesusNoel69" /></a> </p>
