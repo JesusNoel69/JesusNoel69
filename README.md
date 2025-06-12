@@ -8,7 +8,7 @@
 
 - 🔭 Estoy trabajando en [Document-template](https://github.com/JesusNoel69/Docs-Template)
 
-- 🌱 Aprendiendo  **Avalonia**
+- 🌱 Aprendiendo  **React y Node**
 
 - 💬 Conozco de **.NET, Angular y mas,...**
 
